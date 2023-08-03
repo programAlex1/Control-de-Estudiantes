@@ -17,7 +17,7 @@ Este es un proyecto muy básico hecho en Spring Boot 3.1.0 con Java 17 en el cua
 -Obtener estudiante por ID.
 
 # Dependencias usadas:
--Spring Web.
+-Spring Web
 
 -Spring Data JPA
 
@@ -26,6 +26,8 @@ Este es un proyecto muy básico hecho en Spring Boot 3.1.0 con Java 17 en el cua
 -MySQL Driver
 
 -Thymeleaf
+# Gestor de paquetes:
+-Maven
 # Base de Datos:
 -MySQL
 
